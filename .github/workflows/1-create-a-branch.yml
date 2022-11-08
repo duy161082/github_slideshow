@@ -17,7 +17,7 @@ permissions:
   contents: write
 /////////////////////haha
 jobs:
-  on_create_a_branch:
+  on_create_a_Branch:
     name: On create a branch
 
     # We will only run this action when:
